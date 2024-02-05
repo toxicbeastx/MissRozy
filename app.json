@@ -45,6 +45,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
+            "value": "-1002022253369"
         },
         "BANNED_USERS": {
             "description": "Banned unwanted members",
