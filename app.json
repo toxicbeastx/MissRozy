@@ -13,24 +13,31 @@
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "value": "29482507"
         },
         "API_HASH": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "value": "c63b4e5028e4941e6cb8300048d221ec"
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather XD"
+            "value": "6351533797:AAF4yU2vfYiWtSQjdaazoPEg10WSr5SLQfY"
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username which you sent to @BotFather (Without [@])"
+            "value": "Ps_Drama_Link_bot"
         },
         "DB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789"
+            "value": "-1002015566858"
         },
         "BOT_OWNER": {
             "description": "Bot Owner UserID"
+            "value": "6026248826"
         },
         "DATABASE_URL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
+            "value": "mongodb+srv://anonymous:3vbcQmlLJ2OE3c8h@cluster0.gzvgixr.mongodb.net/?retryWrites=true&w=majority"
         },
         "UPDATES_CHANNEL": {
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
