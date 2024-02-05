@@ -65,6 +65,7 @@
         },
         "LAZY_PIC": {
             "description": "Bot Start up Picture . Get it from telegraph boy",
+            "value": "https://graph.org/file/f10a6b5399f2fe5454343.jpg"
             "required": true
         }
     },
