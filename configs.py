@@ -40,7 +40,7 @@ class Config(object):
 	API_HASH = os.environ.get("API_HASH", "c63b4e5028e4941e6cb8300048d221ec")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN","6351533797:AAF4yU2vfYiWtSQjdaazoPEg10WSr5SLQfY")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "Ps_Drama_Link_bot")
-	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1002015566858))
+	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "1002015566858"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "6026248826"))
 	DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://anonymous:3vbcQmlLJ2OE3c8h@cluster0.gzvgixr.mongodb.net/?retryWrites=true&w=majority")
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001862059926")
